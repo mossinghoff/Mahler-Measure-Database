@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+authors:
+- family-names: "Mossinghoff"
+  given-names: "Michael J."
+  orcid: "https://orcid.org/0000-0002-7983-5427"
+title: "Mahler measure database"
+version: 1.0
+date-released: 2026-07-01
+url: "https://github.com/mossinghoff/Mahler-Measure-Database"
