@@ -1,0 +1,148 @@
+Small Salem Numbers
+
+The 72 smallest known Salem numbers. The plastic constant 1.3247... (the
+smallest Pisot number) is known to be a two-sided limit point of Salem
+numbers, so this list tracks the known Salem numbers below a slightly
+smaller value, 49/37 = 1.3243..., which is a continued fraction convergent
+for the plastic constant.
+
+For values below 1.3, this list is known to be complete up to degree 44.
+There is only one known number in this range with larger degree, 46.
+
+Each Salem number is listed with its degree d and half the coefficients of
+its minimal polynomial, since this is reciprocal. Note that the polynomial
+listed here may not match the one appearing for the same value in the large
+list of known Mahler measures less than 1.3: the minimal polynomial here
+may correspond to f(-x) if f(x) is the polynomial in the large list.
+
+Some references appear below. Most of these are sources for searches of
+small Salem numbers, or establishing that this list is complete below a
+particular bound and degree. The list also includes a monograph and a
+survey paper, where many more references for Salem numbers can be found.
+
+Michael Mossinghoff
+m.mossinghoff@ccr-princeton.org
+June 1, 2026
+
+References
+
+[1] M. J. Bertin, A. Decomps-Guilloux, M. Grandet-Hugot, M. Pathiaux-Delefosse, and J. P. Schreiber,
+Pisot and Salem Numbers,
+Birkhäuser, Basel, 1992. MR1187044
+DOI 10.1007/978-3-0348-8632-1
+
+[2] David W. Boyd,
+Small Salem numbers,
+Duke Math. J. 44 (1977), no. 2, 315-328. MR0453692
+DOI 10.1215/S0012-7094-77-04413-1
+
+[3] David W. Boyd,
+Pisot and Salem numbers in intervals of the real line,
+Math. Comp. 32 (1978), no. 144, 1244-1260. MR0491587
+DOI 10.1090/S0025-5718-1978-0491587-8
+
+[4] V. Flammang, M. Grandcolas, and G. Rhin,
+Small Salem numbers,
+in Number Theory in Progress, Vol. 1 (Zakopane-Kościelisko, 1997),
+de Gruyter, Berlin, 1999, 165-168. MR1689505
+DOI 10.1515/9783110285581.165
+
+[5] K. G. Hare and M. J. Mossinghoff,
+Negative Pisot and Salem numbers as roots of Newman polynomials,
+Rocky Mountain J. Math. 44 (2014), no. 1, 113-138. MR3216012
+DOI 10.1216/RMJ-2014-44-1-113
+
+[6] Michael J. Mossinghoff,
+Polynomials with small Mahler measure,
+Math. Comp. 67 (1998), no. 224, 1697-1705, S11-S14. MR1604391
+DOI 10.1090/S0025-5718-98-01006-0
+
+[7] Michael J. Mossinghoff, Georges Rhin, and Qiang Wu,
+Minimal Mahler measures,
+Experiment. Math. 17 (2008), no. 4, 451-458. MR2484429
+DOI 10.1080/10586458.2008.10128872
+
+[8] J.-M. Sac-Épée, 
+Salem numbers less than 49/37,
+Rocky Mountain J. Math., to appear.
+
+[9] Chris Smyth,
+Seventy years of Salem numbers,
+Bull. Lond. Math. Soc. (47) (2015), no. 3, 379-395. MR3354434
+DOI 10.1112/blms/bdv027
+
+==========
+
+Rank  d  Salem number    Coefficients
+  1  10  1.176280818260  1 1 0 -1 -1 -1
+  2  18  1.188368147508  1 -1 1 -1 0 0 -1 1 -1 1
+  3  14  1.200026523987  1 0 0 -1 -1 0 0 1
+  4  14  1.202616743689  1 0 -1 0 0 0 0 -1
+  5  10  1.216391661138  1 0 0 0 -1 -1
+  6  18  1.219720859040  1 -1 0 0 0 0 0 0 -1 1
+  7  10  1.230391434407  1 0 0 -1 0 -1
+  8  20  1.232613548593  1 -1 0 0 0 -1 1 0 0 -1 1
+  9  22  1.235664580390  1 0 -1 -1 0 0 0 1 1 0 -1 -1
+ 10  16  1.236317931803  1 -1 0 0 0 0 0 0 -1
+ 11  26  1.237504821217  1 0 -1 0 0 -1 0 0 -1 0 1 0 0 1
+ 12  12  1.240726423653  1 -1 1 -1 0 0 -1
+ 13  18  1.252775937410  1 0 0 0 0 0 -1 -1 -1 -1
+ 14  20  1.253330650201  1 0 -1 0 0 -1 0 0 0 0 0
+ 15  14  1.255093516764  1 0 -1 -1 0 1 0 -1
+ 16  18  1.256221154392  1 -1 0 0 -1 1 0 0 0 -1
+ 17  24  1.260103540355  1 -1 0 0 -1 1 0 -1 1 -1 0 1 -1
+ 18  22  1.260284236896  1 -1 0 -1 1 0 0 0 -1 1 -1 1
+ 19  10  1.261230961137  1 0 -1 0 0 -1
+ 20  26  1.263038139930  1 -1 0 0 0 0 -1 0 0 0 0 0 0 1
+ 21  14  1.267296442523  1 -1 0 0 0 0 -1 1
+ 22  22  1.276779674019  1 -1 -1 1 0 0 0 0 0 -1 0 1
+ 23   8  1.280638156268  1 0 0 -1 -1
+ 24  26  1.281691371528  1 0 0 0 0 0 -1 -1 -1 -1 -1 -1 -1 -1
+ 25  20  1.282495560640  1 -2 2 -2 2 -2 1 0 -1 1 -1
+ 26  18  1.284616550926  1 0 0 0 -1 0 -1 -1 0 -1
+ 27  26  1.284746821545  1 -2 1 1 -2 1 0 0 -1 1 0 -1 1 -1
+ 28  30  1.285099363652  1 0 0 0 0 -1 -1 -1 -1 -1 -1 0 0 0 0 1
+ 29  30  1.285121520153  1 -2 2 -2 1 0 -1 2 -2 1 0 -1 1 -1 1 -1
+ 30  30  1.285185670753  1 -1 0 0 0 0 0 0 -1 0 0 0 -1 0 0 -1
+ 31  26  1.285196726770  1 0 -1 -1 0 0 0 1 0 -1 -1 0 1 1
+ 32  44  1.285199179206  1 -1 0 0 0 0 0 -1 0 0 0 -1 0 0 0 0 0 0 0 1 0 0 1
+ 33  30  1.285235436229  1 0 -1 0 0 -1 -1 0 0 0 1 0 0 1 0 -1
+ 34  34  1.285409064765  1 -1 0 0 -1 1 -1 0 1 -1 1 0 -1 1 -1 0 1 -1
+ 35  18  1.286395966836  1 -2 2 -2 2 -2 2 -3 3 -3
+ 36  26  1.286730182048  1 -1 0 0 -1 1 -1 0 1 -1 1 0 -1 1
+ 37  24  1.291741425715  1 -1 0 0 0 0 -1 0 0 0 0 0 0
+ 38  20  1.292039106018  1 0 -1 0 0 -1 0 0 -1 0 1
+ 39  40  1.292418657582  1 0 0 -1 0 -1 0 -1 0 -1 0 -1 0 0 1 0 1 0 1 0 1
+ 40  46  1.292900721780  1 0 0 0 -1 -1 -1 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1
+ 41  10  1.293485953125  1 0 -1 -1 0 1
+ 42  18  1.295675371944  1 -1 0 0 -1 1 -1 0 1 -1
+ 43  34  1.296210659593  1 -1 0 -1 0 1 0 1 -2 0 0 1 1 -1 -1 -1 1 1
+ 44  22  1.296421365195  1 -1 0 0 0 -1 0 0 0 0 0 1
+ 45  28  1.296821373715  1 0 0 0 -1 -1 -1 -1 -1 0 0 0 1 1 1
+ 46  36  1.298429835475  1 1 0 -1 -2 -2 -1 0 1 1 0 -1 -1 0 1 1 0 -1 -1
+ 47  26  1.299744869472  1 -1 -1 0 2 0 -2 -1 2 2 -2 -2 0 3
+ 48  12  1.302268805094  1 -1 0 0 0 -1 1
+ 49  32  1.302721444014  1 -1 0 -1 0 1 0 0 0 -1 1 -1 1 0 0 0 -1
+ 50  32  1.303283348964  1 1 0 -1 -2 -2 -1 0 1 1 0 -1 -1 -1 0 1 1
+ 51  30  1.303385419369  1 -1 0 0 -1 0 0 0 1 0 0 1 -1 0 0 -1
+ 52  26  1.304697625411  1 0 -1 -1 0 0 0 0 0 0 0 1 0 -1
+ 53  22  1.305131378642  1 -1 0 0 -1 0 0 1 0 0 0 -1
+ 54  38  1.306473537533  1 -2 1 0 0 0 0 0 -1 1 0 -1 1 0 -1 0 1 0 -1 1
+ 55  44  1.308071085577  1 0 1 -1 0 -2 -1 -2 -1 -1 0 0 1 0 1 0 1 0 1 0 1 0 1
+ 56  16  1.308409006213  1 1 0 -1 -1 -1 -1 -1 -1
+ 57  36  1.308966300288  1 0 1 -1 0 -2 -1 -2 -1 -1 0 0 1 0 1 0 1 0 1
+ 58  22  1.310180863375  1 0 0 -1 -1 -1 -1 0 0 1 1 1
+ 59  22  1.312566632631  1 -1 -1 1 0 0 0 -1 0 1 0 -1
+ 60  16  1.312773239526  1 0 0 -1 0 -1 0 -1 0
+ 61  12  1.315914431926  1 0 0 0 -1 -1 -1
+ 62  40  1.316069252718  1 -1 0 0 -1 0 1 -1 1 0 -1 0 0 -1 1 0 0 1 0 -1 1
+ 63  14  1.318197504432  1 -1 0 -1 1 0 0 -1
+ 64  20  1.319869661883  1 1 0 -1 -1 -1 -1 -1 -1 -1 -1
+ 65  14  1.321101848259  1 -1 0 0 -1 0 1 -1
+ 66  22  1.322014239618  1 1 0 -1 -1 -1 -1 -1 -1 -1 -1 -1
+ 67  22  1.322692457903  1 0 0 -1 0 -1 0 -1 0 -1 0 -1
+ 68  18  1.323198173512  1 -1 -1 1 0 0 0 -1 0 1
+ 69  18  1.323576201647  1 0 0 0 0 -1 -1 -1 -1 -2
+ 70  26  1.323859346186  1 1 0 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+ 71  24  1.324071761641  1 -1 0 0 0 -1 1 -1 0 0 0 -1 1
+ 72  28  1.324231319862  1 1 0 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
