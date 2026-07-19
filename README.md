@@ -11,7 +11,7 @@
 | BestByRootCount_200.txt         | Smallest known Mahler measure > 1 for primitive irreducible polynomials with a fixed number of roots outside the unit circle. |
 | BestMeasures.txt                | All known Mahler measures in (1, 1.25) for primitive irreducible polynomials. |
 | LargeLittlewood.txt             | The largest Mahler measures for Littlewood polynomials of each fixed degree ≤ 30. |
-| LargeSkewSymmLittlewood.txt     | The largest Mahler measures for skew-symmetric Littlewood polynomials of each fixed even degree ≤ 56. |
+| LargeSkewSymmLittlewood.txt     | The largest Mahler measures for skew-symmetric Littlewood polynomials of each fixed even degree ≤ 60. |
 | Littlewood_All72.txt            | All reciprocal Littlewood polynomials with degree ≤ 72 and Mahler measure in (1, 5/3). |
 | Littlewood_Top40.txt            | The 40 smallest known Mahler measures > 1 of Littlewood polynomials. |
 | SalemList.txt                   | All known Salem numbers < 49/37 = 1.3243... . |
@@ -20,4 +20,4 @@
 
 Michael Mossinghoff<br>
 m.mossinghoff@ccr-princeton.org<br>
-July 1, 2026
+July 18, 2026
